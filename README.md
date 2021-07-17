@@ -1,6 +1,12 @@
 # Data-Science-Project
 Analysis on Various Factors Affecting Insurance Costs of U.S. Adults 
 
-In this project, I intend to analyze a sample of insurance costs of individuals across the United States, classified by age, sex, bmi, number of children, and inhabiting region. Through my analysis, I aim to find out 1) the largest contributor to the cost of health insurance charges, 2) how the smoking habits in each sex affect the insurance charges of the individuals, and lastly 3) how the insurance charges differ and are spread in each age groups. 
+In this project, I intend to analyze a sample of insurance costs of individuals across the United States, classified by age, sex, bmi, number of children, and inhabiting region. Through my analysis, I aim to find out:
+1) The variable that has the largest correlation to the cost of health insurance charges 
+2) How the smoking habits in each sex affect the insurance charges
+3) How the insurance charges differ (and maybe why) in each age group. 
 
-Prior to any analysis or examination of the dataset, I initially hypothesize that 1) the largest contributor to the insurance costs of the U.S. adults is the "bmi", since it is a good indicator of one's health condition. People outside the range of normal "bmi", either higher or lower, will have higher insurance costs. Furthermore, I contend that 2) the smoking habit of a woman incurs a higher insurance charges than that of a man, since there have been myriads of reports that have shown that female smokers have higher chance of getting lung cancer and other respiratory diseases than do male smokers. Lastly, I would argue that 3) as the age group moves from a younger group to an older group, the insurance charges increase, and the insurance charges are more spread out in certain groups that have higher smoker population. 
+Prior to any analysis or examination of the dataset, I initially hypothesize that:
+1) The variable with the largest correlation to the insurance costs is the "bmi", since it is a good indicator of one's health condition
+2) The smoking habit of a female incurs a higher insurance charges than that of a male, since researches show that female smokers have higher chance of getting respiratory diseases than do male smokers
+3) As the age group moves from a younger group to an older group, the insurance charges increase, and the insurance charges of each age group are affected by the 'bmi' variable.
