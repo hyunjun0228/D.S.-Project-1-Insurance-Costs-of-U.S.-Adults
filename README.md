@@ -11,4 +11,4 @@ Prior to any analysis or examination of the dataset, I initially hypothesize tha
 2) The smoking habit of a female incurs a higher insurance charges than that of a male, since researches show that female smokers have higher chance of getting respiratory diseases than do male smokers
 3) As the age group moves from a younger group to an older group, the insurance charges increase, and the insurance charges of each age group are affected by the 'bmi' variable.
 
-Note: The dataset 'insurance.csv' was collected from United State Health and Human Services Department.
+Note: The dataset 'insurance.csv' was acquired from CodeCademy.com.
